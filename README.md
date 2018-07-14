@@ -1,0 +1,1 @@
+This application allows user to check the weather conditions in any place.
