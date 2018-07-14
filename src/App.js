@@ -4,6 +4,7 @@ import { BrowserRouter as Router, Route } from 'react-router-dom';
 import { configureStore } from './store';
 import Navbar from './components/Navbar';
 import CitiesListContainer from './containers/CitiesListContainer';
+import FavouriteCitiesList from './components/FavouriteCitiesList';
 
 const store = configureStore();
 
@@ -18,7 +19,7 @@ const App = () => (
         />
         <Route
           path='/weather_app/favourites/'
-          // component={}
+          component={FavouriteCitiesList}
         />
         <Route
           path='/weather_app/current/'
