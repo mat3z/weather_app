@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,KACE,SACA,UACA,kCACA,sBACA,aAAe","file":"static/css/main.1ea0b6f4.css","sourcesContent":["body {\n  margin: 0;\n  padding: 0;\n  font-family: 'Montserrat', sans-serif;\n  background-color: #eeeeee;\n  color: #34495e;\n\n}\n\n\n// WEBPACK FOOTER //\n// ./src/index.css"],"sourceRoot":""}
